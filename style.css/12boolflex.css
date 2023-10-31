@@ -10,6 +10,21 @@
     margin: 0 auto;
 }
 
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+
+[class^="col"]{
+    height: 100px;
+    background-color: #006CFA;
+    color: white;
+    border: 5px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .row{
     display: flex;
     flex-direction: row;
