@@ -11,7 +11,7 @@
 }
 
 h1{
-    text-align: center;
+    text-align: left;
     font-size: 3rem;
 }
 
@@ -105,51 +105,51 @@ h1{
 }
 
 .col-offset-1{
-    margin-left: calc((100% / 12) * 1);
+    margin-left: auto;
 }
 
 .col-offset-2{
-    margin-left: calc((100% / 12) * 2);
+    margin-left: auto;
 }
 
 .col-offset-3{
-    margin-left: calc((100% / 12) * 3);
+    margin-left: auto;
 }
 
 .col-offset-4{
-    margin-left: calc((100% / 12) * 4);
+    margin-left: auto;
 }
 
 .col-offset-5{
-    margin-left: calc((100% / 12) * 5);
+    margin-left: auto;
 }
 
 .col-offset-6{
-    margin-left: calc((100% / 12) * 6);
+    margin-left: auto;
 }
 
 .col-offset-7{
-    margin-left: calc((100% / 12) * 7);
+    margin-left: auto;
 }
 
 .col-offset-8{
-    margin-left: calc((100% / 12) * 8);
+    margin-left: auto;
 }
 
 .col-offset-9{
-    margin-left: calc((100% / 12) * 9);
+    margin-left: auto;
 }
 
 .col-offset-10{
-    margin-left: calc((100% / 12) * 10);
+    margin-left: auto;
 }
 
 .col-offset-11{
-    margin-left: calc((100% / 12) * 11);
+    margin-left: auto;
 }
 
 .col-offset-12{
-    margin-left: calc((100% / 12) * 12);
+    margin-left: auto;
 }
 
 /* ? Small size */
