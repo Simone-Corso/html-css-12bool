@@ -19,7 +19,7 @@ h1{
     height: 100px;
     background-color: #006CFA;
     color: white;
-    border: 5px solid green;
+    border: 2px solid white;
     display: flex;
     justify-content: center;
     align-items: center;
